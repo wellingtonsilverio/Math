@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Math</string>
+    <string name="hello_world">Seja bem vindo!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="start">Iniciar</string>
+    <string name="intro">Responda a conta:</string>
+    <string name="digit">Você digitou:</string>
+    <string name="reset">Apagar</string>
+    <string name="record">"Recorde: "</string>
+
+</resources>
